@@ -1,9 +1,9 @@
 {
-  "name": "GMPlayer",
+  "name": "ZQ-layer",
   "version": "2.0",
-  "author": "GBCLStudio",
-  "home": "https://gbclstudio.cn",
-  "github": "https://github.com/Burial0268/SPlayer",
+  "author": "ZQ JACKY",
+  "home": "https://nav.520jacky.ip-ddns.com/",
+  "github": "https://github.com/BAYUEQI/playermusic",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
