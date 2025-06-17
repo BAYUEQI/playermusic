@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="logo" height="80" src="./public/images/logo/favicon.png" />
-<h2>GMPlayer</h2>
-<p>SPlayer enhanced version</p>
+<h2>ZQ-Player</h2>
+<p>Player enhanced version</p>
 <img alt="main" src="./screenshots/main.png" />
 </div>
 <br />
